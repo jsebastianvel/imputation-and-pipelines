@@ -16,10 +16,10 @@ Data: Find the MoneyBall dataset in the 'data' directory.
 Results: Check out the results and visualizations in the 'results' directory.
 Contribution Guidelines: Interested in contributing? Refer to 'CONTRIBUTING.md' for guidelines.
 # Getting Started
-Clone the Repository: Start by cloning this repository to your local machine.
-Explore Notebooks: Dive into the analysis notebooks within the 'notebooks' directory for insights.
-Check Results: View the results and visualizations in the 'results' directory.
-Contribute: Feel free to contribute insights, additional analyses, or improvements following the guidelines in 'CONTRIBUTING.md'.
+<p>Clone the Repository: Start by cloning this repository to your local machine.</p>
+<p>Explore Notebooks: Dive into the analysis notebooks within the 'notebooks' directory for insights.</p>
+<p>Check Results: View the results and visualizations in the 'results' directory.</p>
+<p>Contribute: Feel free to contribute insights, additional analyses, or improvements following the guidelines in 'CONTRIBUTING.md'.</p>
 # Acknowledgments
 The MoneyBall dataset is sourced from OpenML, and this exploration wouldn't be possible without the valuable data it provides.
 Let's Uncover the Secrets of Baseball Performance
